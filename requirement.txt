@@ -1,6 +1,6 @@
-joblib==1.5.3
 scikit-learn==1.6.1
 xgboost==1.7.6
+joblib==1.5.3
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.3
 aiosignal==1.4.0
