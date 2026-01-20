@@ -81,6 +81,6 @@ watchdog==6.0.0
 xxhash==3.6.0
 yarl==1.22.0
 zstandard==0.25.0
-joblib
-sklearn==1.6.1
-xgboost
+joblib==1.3.2
+scikit-learn==1.6.1
+xgboost==1.7.6
